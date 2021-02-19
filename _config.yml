@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Arash Mohegh"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Geospatial Analysis, Data Science, Machine Learning, Climate, Air Pollution"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
