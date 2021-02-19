@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Arash Mohegh"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Photo.png"
   bio    : "Geospatial Analysis, Data Science, Machine Learning, Climate, Air Pollution"
   links:
     - label: "Website"
