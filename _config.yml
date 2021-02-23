@@ -24,6 +24,8 @@ github_username: AMohegh
 minimal_mistakes_skin: mint
 search: true
 
+masthead_title: "Arash Mohegh "
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
