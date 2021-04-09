@@ -9,6 +9,5 @@ author_profile: true
 ---
 
 Hello! I'm Arash Mohegh and I'm a postdoctoral researcher at George Washington University. 
-{% highlight html %}
-{% include "/assets/html/intro-graphics.html" %}
-{% endhighlight %}
+
+<object data="/assets/intro-graphics.pdf" width="1000" height="1000" type='application/pdf'/>
